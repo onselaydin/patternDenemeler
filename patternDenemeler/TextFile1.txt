@@ -1,0 +1,85 @@
+﻿Code siplicity- Max Kanat
+telnet milliyet.com.tr
+GET / HTTP/1.1
+HOST www.milliyet.com.tr
+
+
+https://pages.github.com
+https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#platform-windows
+http://www.mehmetemineker.com/github-pages-ile-gelistiricilere-ucretsiz-blog/
+
+http://www.mehmetemineker.com/net-projelerinde-otomatik-versiyonlama/
+
+http://www.gokhansengun.com/blogun-teknik-altyapisi/
+
+
+https://jekyllrb.com/
+github pages
+
+install ruby
+
+https://github.com/onselaydin/onsel.github.io.git
+
+https://desktop.github.com
+
+
+Bir tablonun aynı kolonlara sahip bir kopyasını oluşturmak istersek yazmamız gereken sorgu şu şekilde:
+
+select top 0 * into table2 from table1
+Bu sorgu ile table1 tablosunun aynısını table2 ismiyle oluşturur.
+
+markdown biçimlendirmek.
+https://www.froala.com/wysiwyg-editor
+
+C:\gitsite\onselaydin.github.io>jekyll serve   değişiklikleri görmek için. oluşan siteyi browsera yapıştır.
+
+jekyll b    build etmek için.
+
+Temalar--- http://themes.jekyllrc.org
+
+DEPLOYMENT
+ cd site_klasoru
+    git init
+    git remote add origin https://github.com/githubHesapAdınız/githubHesapAdınız.github.io.git
+    git add -A
+    git commit -m "Initial deployment"
+    git push origin master
+    // SSH key kullanmıyorsanız github kullanıcı adı ve şifrenizi isteyecek
+
+	c:\   ...  tree _site
+
+
+	https://learn.cloudcannon.com/jekyll-plugins/
+
+	http://www.jekyll-plugins.com
+
+
+	AÇIK KAYNAK
+
+	Scala,Rust
+
+	https://github.com  (Açık kaynak konusundaki en iyi site.Repoya git easy bir issues bul.)
+
+	https://about.gitlab.comhttps://about.gitlab.com
+
+	http://up-for-grabs.net   (issui ların olduğu site)
+
+	https://www.bugzilla.org
+
+	Code of Conduct( Anlaşmalara bak.)
+	Commit tarihlerine bak. En son commit 1 yıl önceyse durma orda.
+	Repoyu tek kişimi yönetiyor. Demokratik değilse durma orda.
+	Biri çözeceğiniz issue ile ilgili önceden çalışıyormu çalışmıyormu sor.
+	Bir deadline veriyorlarsa kabul etme.
+
+	Pull requestler uzun zamandır bekliyorsa o repoya bulaşma (örnek olarak: redis requesleri 2010 dan beri bekliyor.
+	
+	Mentörlük yapma konusunda iyilerse devam et.
+
+	birtek yazılım açık olmuyor örnek monoid bir font yazıtipi de var. hartacılık var, logo tasarımı vb.
+
+	https://choosealicense.com   -- open source lisans seçimi.
+	https://opensource.guide   --- nasıl yapsam. Bu rehber üzerinden akıl alabilirim.
+
+
+

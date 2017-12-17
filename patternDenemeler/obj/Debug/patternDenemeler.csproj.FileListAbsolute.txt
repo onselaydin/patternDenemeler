@@ -1,0 +1,18 @@
+C:\Users\onsel\Documents\Visual Studio 2017\Projects\patternDenemeler\patternDenemeler\bin\Debug\patternDenemeler.exe.config
+C:\Users\onsel\Documents\Visual Studio 2017\Projects\patternDenemeler\patternDenemeler\bin\Debug\patternDenemeler.exe
+C:\Users\onsel\Documents\Visual Studio 2017\Projects\patternDenemeler\patternDenemeler\bin\Debug\patternDenemeler.pdb
+C:\Users\onsel\Documents\Visual Studio 2017\Projects\patternDenemeler\patternDenemeler\obj\Debug\patternDenemeler.csprojResolveAssemblyReference.cache
+C:\Users\onsel\Documents\Visual Studio 2017\Projects\patternDenemeler\patternDenemeler\obj\Debug\patternDenemeler.csproj.CoreCompileInputs.cache
+C:\Users\onsel\Documents\Visual Studio 2017\Projects\patternDenemeler\patternDenemeler\obj\Debug\patternDenemeler.exe
+C:\Users\onsel\Documents\Visual Studio 2017\Projects\patternDenemeler\patternDenemeler\obj\Debug\patternDenemeler.pdb
+C:\Users\onsel\Documents\Visual Studio 2017\Projects\patternDenemeler\patternDenemeler\bin\Debug\Ninject.dll
+C:\Users\onsel\Documents\Visual Studio 2017\Projects\patternDenemeler\patternDenemeler\bin\Debug\Ninject.xml
+D:\Documents\vs2017\patternDenemeler\patternDenemeler\bin\Debug\patternDenemeler.exe.config
+D:\Documents\vs2017\patternDenemeler\patternDenemeler\bin\Debug\patternDenemeler.exe
+D:\Documents\vs2017\patternDenemeler\patternDenemeler\bin\Debug\patternDenemeler.pdb
+D:\Documents\vs2017\patternDenemeler\patternDenemeler\bin\Debug\Ninject.dll
+D:\Documents\vs2017\patternDenemeler\patternDenemeler\bin\Debug\Ninject.xml
+D:\Documents\vs2017\patternDenemeler\patternDenemeler\obj\Debug\patternDenemeler.csprojResolveAssemblyReference.cache
+D:\Documents\vs2017\patternDenemeler\patternDenemeler\obj\Debug\patternDenemeler.csproj.CoreCompileInputs.cache
+D:\Documents\vs2017\patternDenemeler\patternDenemeler\obj\Debug\patternDenemeler.exe
+D:\Documents\vs2017\patternDenemeler\patternDenemeler\obj\Debug\patternDenemeler.pdb
